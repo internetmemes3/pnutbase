@@ -64,7 +64,7 @@ export default function Home() {
           <p className="text-2xl sm:text-3xl md:text-4xl text-gray-500 w-full font-bold text-center mt-8 mb-8">
           In memory of  Peanut 🥜 the Squirrel, beloved pet and internet sensation. Friend, and fighter to the end. We will keep your memory alive on base.
           </p>
-          <p className="text-xs sm:text-2xl w-full font-bold text-center mt-10 sm:mt-4 mb-10">
+          <p className="text-xs text-black sm:text-2xl w-full font-bold text-center mt-10 sm:mt-4 mb-10">
           0x293A9C9bff2415FB39229a6AA01CbFF5669b2BA9
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-4 w-full max-w-4xl mt-8">
